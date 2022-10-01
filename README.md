@@ -7,5 +7,3 @@ The web-app is created using following technologies :
 - [HTML/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Spotify API](https://developer.spotify.com/documentation/web-api/)
 - [Heroku Deployment](https://devcenter.heroku.com/)
-
-![website front page!!!](https://github.com/kandekar007/song-recsys/blob/main/new-deployed-recsys.PNG)
